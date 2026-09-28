@@ -1,0 +1,6 @@
+{
+  "name": "ShopMate - Modern Electronics & Tech E-Commerce",
+  "description": "ShopMate is a modern, clean, and professional e-commerce platform for browsing, comparing, and buying top-tier electronics, laptops, mobiles, and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
